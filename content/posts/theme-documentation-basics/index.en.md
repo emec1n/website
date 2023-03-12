@@ -279,7 +279,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # {{< version 0.2.0 >}} date format
   dateFormat = "2006-01-02"
   # website title for Open Graph and Twitter Cards
-  title = "My cool site"
+  #title = "My cool site"
   # website description for RSS, SEO, Open Graph and Twitter Cards
   description = "This is my cool site"
   # website images for Open Graph and Twitter Cards
@@ -343,7 +343,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # {{< version 0.2.0 >}} App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "My cool site"
+    #title = "My cool site"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
